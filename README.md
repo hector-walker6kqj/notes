@@ -19,3 +19,6 @@ Let's GO
 4. Code regularly: Even if you' re not working on a specific project, try to code every week. It will keep your skills sharp and help prevent you from losing touch with what you learned.   
 5. Ask for help: When you run into a problem or don' t understand a concept, don ' t be afraid to ask for assistance. Reach out to your colleagues, friends, online communities, like Stack Overflow, to get the information you need to move forward.    
 6. Document your work: Writing comments and documentation for your code will not only make it easier for others to understand your project but also help your own understanding down the road. When it comes time to revisit your old code, you ' ll be glad you took the time.
+
+# 2023-11-19
+- "Keep it simple, stupid!"
