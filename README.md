@@ -28,3 +28,8 @@ Let's GO
 
 To be successful in the programming field, you should also have a strong foundation in core programming concepts, like data structures, algorithms, software engineering, testing, debugging, version control, etc. These skills will help you build robust and efficient software solutions. Additionally, learning to communicate effectively with non-technical team members is a valuable skill, as it can help bridge the gap between developers and end-users. 
  - 来自NLP
+
+# 2023-11-21
+- "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
+
+This quote highlights the ongoing challenge programmers face in creating user-friendly software that can withstand the unpredictable actions of users. It also suggests that as technology advances, so too does the potential for human error, making it increasingly difficult for programmers to stay one step ahead.
