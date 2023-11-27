@@ -54,3 +54,9 @@ This quote highlights the ongoing challenge for programmers to create user-frien
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook
 
 This quote highlights the ongoing challenge programmers face in creating user-friendly and robust software, while also acknowledging the ever-evolving nature of technology and the people who use it. It serves as a reminder to continually adapt and improve our programming skills to stay ahead in the race.
+
+# 2023-11-27
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge base. This involves staying up-to-date with the latest technologies, tools, and programming languages. It is also essential to understand the principles of software development, such as agile methodologies and continuous integration.
+
+To be an effective programmer, it is crucial to have a deep understanding of the problem you are trying to solve. By understanding the requirements and constraints of a project, you can make better design decisions and create more efficient solutions. Effective communication is another important skill, as it allows you to collaborate with teammates and stakeholders to achieve common goals. 
+ - 来自NLP
