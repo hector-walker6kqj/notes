@@ -126,3 +126,9 @@ Remember to stay flexible and adaptable, as you may encounter unforeseen challen
 
 # 2023-12-12
 - "Keep it simple, stupid!"
+
+# 2023-12-13
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, identify the most important tasks and focus on them first. By prioritizing your work, you can ensure that you are making progress on the right things.
+
+Next, use time management techniques to plan out your day or week. Break down larger tasks into smaller, manageable pieces, then allocate time for each piece. Using a scheduling tool, such as Todoist or Trello, can help keep you organized and on track. Allocating time appropriately will ensure you have enough time to complete each task and avoid last-minute panic. 
+ - 来自帮助助手
