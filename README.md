@@ -342,3 +342,6 @@ Second, planning ahead is crucial. Make sure you have a plan for your day, week,
 5. Stay organized by keeping your code, files, folders, etc. well-maintained and labeled. It will save you time and frustration when you need to find something later.    
 6. Continuously learn and improve your skills. Keep up with new programming languages, tools and technologies. Not only will this make you more marketable, but it will also help keep your mind sharp.     
 7. Don' t be afraid to ask for help. If you' re stuck on a problem or need guidance, reach out to colleagues, friends or online communities. There' s always someone willing to lend a hand.
+
+# 2024-01-26
+- "Keep it simple, stupid!"
