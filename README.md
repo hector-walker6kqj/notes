@@ -452,3 +452,8 @@ Second, always plan your day or week ahead of time. Write down your goals for th
 Second, always plan beforehand. When starting a new project or working on a complex task, take the time to break it down into smaller, manageable steps. Creating a plan will not only help to keep you organized but also ensure you don't miss any important details. As you work through the steps, regularly evaluate your progress and adjust the plan as needed. 
  <p>
 Finally, stay organised. Use version control systems, like Git, to track your code and collaborate with others. Keep your workspace clean and tidy, with well-organised files and directories. Additionally, use coding best practices, such as proper naming conventions, commentation,and modularisation, which will make yourcode more readable and maintainable. Remember, good organisation and planning are the foundation for success in programming.
+
+# 2024-02-18
+- Today's programming wisdom is: "Premature optimization is the root of all evil." — Donald Knuth. 
+
+This quote reminds programmers to focus on writing clear, maintainable code first and optimize only when necessary, after profiling and identifying genuine bottlenecks. It emphasizes that over-optimization without concrete evidence can lead to more complex and less readable code, which in turn may introduce bugs and hinder future development. Remember, simplicity and clarity enhance efficiency and robustness in the long run.
